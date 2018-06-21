@@ -1,0 +1,15 @@
+html {
+  font: bold 32px/32px Arial;
+}
+
+.symbol {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5px 0;
+  cursor: pointer;
+  text-align: center;
+  color: #9e005d;
+  background: #f1da36;
+  border: 1px solid #b79e00;
+  min-width: 33px;
+}
